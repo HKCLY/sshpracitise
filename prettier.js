@@ -1,6 +1,6 @@
-var str     =   'ly';
+      var str             =   'ly';
 
 
-function         yejiyejixiaoyey() {
-          return         'ly';
-};
+    function         yejiyejixiaoyey() {
+              return         'ly';
+}; 
